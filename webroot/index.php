@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/font-awesome.css" type="text/css">
-    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <link rel="stylesheet" href="../css/font-awesome.css" type="text/css">
+    <link rel="stylesheet" href="../css/style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700" rel="stylesheet">
     <title>Zadatak 1 | Taask 1</title>
@@ -20,7 +20,7 @@
         <div class="autor">
             <p>WRITEN BY<br>
                 <strong>Arthur GUILLERMIN HAZAN</strong>
-                <img src="img/thedude.png"></p>
+                <img src="../img/thedude.png"></p>
         </div>
         <div class="ikonice">
             <a class="fa fa-star" href="#"></a>
