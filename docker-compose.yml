@@ -44,9 +44,9 @@ services:
       - default
       - traefik_proxy
     labels:
-      - 'traefik.backend=task4_nginx'
+      - 'traefik.backend=task1_nginx'
       - 'traefik.port=80'
-      - 'traefik.frontend.rule=Host:task4.dev.loc'
+      - 'traefik.frontend.rule=Host:task1.dev.loc'
       - "traefik.docker.network=traefik_proxy"
 
 networks:
